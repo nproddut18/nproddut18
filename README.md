@@ -8,11 +8,12 @@
 
 ### About Me
 
-I'm a **Data Engineer with 3+ years of experience** in building production-grade data pipelines, cloud data platforms, and analytics-ready datasets across banking, fraud monitoring, and product telemetry domains.
+I'm a Data Engineer and recent MS Computer Science graduate (Data Science Concentration) from UNC Charlotte with hands-on experience building cloud-based data platforms, real-time streaming pipelines, and analytics-ready data solutions. My background spans data engineering, big data processing, and modern AI-powered systems, with experience developing production-grade RAG applications, ETL pipelines, and scalable data workflows.
 
-Currently pursuing my **MS in Computer Science (Data Science Concentration)** at **UNC Charlotte**, I specialize in designing scalable batch and streaming workflows on **AWS and Azure**, engineering warehouse models that power real-time dashboards, and enforcing end-to-end data quality from ingestion to reporting.
+I specialize in Python, SQL, Apache Spark, Kafka, AWS, Snowflake, Airflow, and dbt, with a strong focus on designing reliable data pipelines, implementing data quality controls, and transforming raw data into trusted, business-ready insights. Through both enterprise internship experience and academic projects, I have worked on streaming architectures, lakehouse platforms, data warehousing, vector search systems, and cloud-native analytics solutions.
 
-I don't just move data — I make it trustworthy, fast, and useful.
+I enjoy solving complex data problems and building systems that make data accessible, scalable, and actionable for analytics, reporting, and intelligent applications.
+
 
 ---
 
