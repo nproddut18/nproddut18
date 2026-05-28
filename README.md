@@ -31,15 +31,16 @@ I enjoy solving complex data problems and building systems that make data access
 
 | Area | Tools & Technologies |
 |---|---|
-| **Languages** | Python, SQL, PySpark, Scala, Java, Shell Scripting |
-| **Cloud – AWS** | Glue, Lambda, Step Functions, Kinesis, S3, Redshift, EMR, Athena, Lake Formation, CloudWatch |
-| **Cloud – Azure** | Data Factory, Databricks, Synapse Analytics, ADLS Gen2, Azure SQL |
-| **Cloud – Other** | Snowflake, Google BigQuery |
-| **Big Data & Streaming** | Apache Spark, Spark SQL, Kafka, Hadoop, Hive, Delta Lake, HDFS, MapReduce |
-| **Orchestration & ETL** | Apache Airflow, dbt, Informatica, SSIS, REST API Ingestion |
-| **Data Modeling** | Star Schema, Dimensional Modeling, SCD Type 2, Data Marts, Medallion Architecture |
-| **DevOps & DataOps** | Git, Jenkins, Azure DevOps, CI/CD, AWS CloudFormation, IAM, RBAC |
-| **BI & Reporting** | Power BI, Tableau, Fraud Analytics, Risk Reporting |
+| **Languages** | Python (Pandas, NumPy), SQL, Java, Shell Scripting |
+| **Cloud – AWS** | S3, Redshift, Kinesis, Athena, CloudWatch, IAM |
+| **Cloud – Azure** | Synapse Analytics, Databricks, Data Lake Gen2, Azure SQL |
+| **Cloud – GCP** | Google BigQuery |
+| **Big Data & Distributed Systems** | Apache Spark, PySpark, Kafka, Hadoop, Hive, Airflow, Delta Lake |
+| **ETL & Data Modeling** | AWS Glue, Azure Data Factory, dbt, Star & Snowflake Schema Design, Dimensional Modeling |
+| **Databases** | PostgreSQL, MySQL, SQL Server, Snowflake, MongoDB |
+| **AI & LLM Tools** | LangChain, FAISS, ChromaDB, OpenAI API, RAG |
+| **Infrastructure & DevOps** | Terraform, Docker, Git, CI/CD, GitHub Actions |
+| **BI & Visualization** | Tableau, Power BI |
 
 ---
 
