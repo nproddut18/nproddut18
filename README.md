@@ -45,24 +45,14 @@ I enjoy solving complex data problems and building systems that make data access
 
 ### 💼 Professional Experience
 
-#### **Data Engineer** — US Bank | Irving, TX
-*Dec 2024 – Present*
+#### **GenAI Intern** — Apexon (Infostretch Corporation) | Remote
+*Jan 2026 – May 2026*
 
-- Built AWS Glue + Kinesis pipelines for fraud, transaction, and credit-risk feeds — cutting ETL runtime by **40%**
-- Modeled Amazon Redshift fact/dimension tables with star schema, sort keys, and distribution keys — **3x dashboard query improvement**
-- Automated **20+ Airflow workflows** across AWS Glue, Informatica, and SSIS — improving pipeline reliability by **35%**
-- Maintained **95% test coverage** on regulatory reporting pipelines with schema validation and source-to-target reconciliation
-- Reduced recurring pipeline failures by **30%** via CloudWatch monitoring, retry handling, and structured error alerting
-
-#### **Data Platform Engineer** — Gangasoft Solutions Pvt. Ltd. | Hyderabad, India
-*Dec 2022 – Jul 2024*
-
-- Delivered Azure Data Factory + Synapse pipelines that accelerated Power BI refresh cycles by **60%**
-- Built Azure Databricks + Delta Lake workflows reducing daily batch windows by **45%**
-- Engineered Snowflake data marts with dimensional modeling for consistent product and sales analytics
-- Boosted pipeline release speed by **50%** via Jenkins, Azure DevOps, and CI/CD automation
-- Decreased dashboard defects by **32%** through rigorous source-to-target and reconciliation validation
-
+-Designed and deployed a production-grade Retrieval-Augmented Generation (RAG) onboarding chatbot within Apexon’s PeopleRise platform using Python, FastAPI, OpenAI API, LangChain, ChromaDB, and PostgreSQL, supporting onboarding workflows across the US, Mexico, and India regions.
+-Built semantic retrieval pipelines leveraging vector embeddings, similarity search, and dynamic retrieval strategies to deliver HR-approved responses through integrations with enterprise HR and IT systems.
+-Engineered backend APIs, ETL-style data ingestion workflows, and document-processing pipelines for 120+ pages of HR documentation, transforming unstructured content into embedding-ready knowledge datasets.
+-Owned feature development, defect resolution, and production maintenance for the Talent Discovery Suite, resolving 80+ tickets through Agile sprint execution, Git-based workflows, and cross-functional collaboration with HR, QA, engineering teams, and business stakeholders.
+-Contributed to candidate ranking, resume-to-job matching, interview question generation, and automated communication workflows used by Apexon’s internal HR organization supporting approximately 15,000 employees.
 ---
 
 ### 🚀 Featured Projects
