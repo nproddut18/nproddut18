@@ -2,18 +2,17 @@
 
 **Data Engineer | 🌩️ Cloud Optimizer | ML-Driven Architect | Pipeline Perfectionist**
 
-📍 Charlotte, NC (Open to Relocate) &nbsp;|&nbsp; 📧 nproddut18@gmail.com &nbsp;|&nbsp; [GitHub](https://github.com/narenp18)
+📍 Charlotte, NC (Open to Relocate) &nbsp;|&nbsp; 📧 nproddut18@gmail.com &nbsp;|&nbsp; [GitHub](https://github.com/nproddut18)
 
 ---
 
 ### About Me
 
-I'm a Data Engineer and recent MS Computer Science graduate (Data Science Concentration) from UNC Charlotte with hands-on experience building cloud-based data platforms, real-time streaming pipelines, and analytics-ready data solutions. My background spans data engineering, big data processing, and modern AI-powered systems, with experience developing production-grade RAG applications, ETL pipelines, and scalable data workflows.
+I'm a **Data Engineer** and recent **MS Computer Science graduate (Data Science Concentration)** from **UNC Charlotte** with hands-on experience building cloud-based data platforms, real-time streaming pipelines, and analytics-ready data solutions. My background spans data engineering, big data processing, and modern AI-powered systems, with experience developing production-grade RAG applications, ETL pipelines, and scalable data workflows.
 
-I specialize in Python, SQL, Apache Spark, Kafka, AWS, Snowflake, Airflow, and dbt, with a strong focus on designing reliable data pipelines, implementing data quality controls, and transforming raw data into trusted, business-ready insights. Through both enterprise internship experience and academic projects, I have worked on streaming architectures, lakehouse platforms, data warehousing, vector search systems, and cloud-native analytics solutions.
+I specialize in **Python, SQL, Apache Spark, Kafka, AWS, Snowflake, Airflow, and dbt**, with a strong focus on designing reliable data pipelines, implementing data quality controls, and transforming raw data into trusted, business-ready insights. Through both enterprise internship experience and academic projects, I have worked on streaming architectures, lakehouse platforms, data warehousing, vector search systems, and cloud-native analytics solutions.
 
-I enjoy solving complex data problems and building systems that make data accessible, scalable, and actionable for analytics, reporting, and intelligent applications.
-
+I enjoy solving complex data problems and building systems that make data **accessible, scalable, and actionable** for analytics, reporting, and intelligent applications.
 
 ---
 
@@ -49,11 +48,12 @@ I enjoy solving complex data problems and building systems that make data access
 #### **GenAI Intern** — Apexon (Infostretch Corporation) | Remote
 *Jan 2026 – May 2026*
 
--Designed and deployed a production-grade Retrieval-Augmented Generation (RAG) onboarding chatbot within Apexon’s PeopleRise platform using Python, FastAPI, OpenAI API, LangChain, ChromaDB, and PostgreSQL, supporting onboarding workflows across the US, Mexico, and India regions.
--Built semantic retrieval pipelines leveraging vector embeddings, similarity search, and dynamic retrieval strategies to deliver HR-approved responses through integrations with enterprise HR and IT systems.
--Engineered backend APIs, ETL-style data ingestion workflows, and document-processing pipelines for 120+ pages of HR documentation, transforming unstructured content into embedding-ready knowledge datasets.
--Owned feature development, defect resolution, and production maintenance for the Talent Discovery Suite, resolving 80+ tickets through Agile sprint execution, Git-based workflows, and cross-functional collaboration with HR, QA, engineering teams, and business stakeholders.
--Contributed to candidate ranking, resume-to-job matching, interview question generation, and automated communication workflows used by Apexon’s internal HR organization supporting approximately 15,000 employees.
+- Designed and deployed a production-grade **Retrieval-Augmented Generation (RAG)** onboarding chatbot within Apexon's PeopleRise platform using **Python, FastAPI, OpenAI API, LangChain, ChromaDB, and PostgreSQL**, supporting onboarding workflows across the US, Mexico, and India regions.
+- Built semantic retrieval pipelines leveraging **vector embeddings, similarity search, and dynamic retrieval strategies** to deliver HR-approved responses through integrations with enterprise HR and IT systems.
+- Engineered backend APIs, ETL-style data ingestion workflows, and document-processing pipelines for **120+ pages of HR documentation**, transforming unstructured content into embedding-ready knowledge datasets.
+- Owned feature development, defect resolution, and production maintenance for the Talent Discovery Suite, resolving **80+ tickets** through Agile sprint execution, Git-based workflows, and cross-functional collaboration with HR, QA, engineering teams, and business stakeholders.
+- Contributed to candidate ranking, resume-to-job matching, interview question generation, and automated communication workflows used by Apexon's internal HR organization supporting approximately **15,000 employees**.
+
 ---
 
 ### 🚀 Featured Projects
@@ -64,10 +64,10 @@ I enjoy solving complex data problems and building systems that make data access
 #### [Cloud Lakehouse & Data Warehouse Modernization Platform](https://github.com/nproddut18/cloud-lakehouse-dw-modernization)
 > End-to-end lakehouse on **AWS S3, Glue, Delta Lake, Airflow, Redshift, and Snowflake** — dbt star schema modeling, SCD Type 2 logic, and incremental load optimization boosting dashboard performance by **40%**.
 
-#### [Real-Time Fraud Detection Pipeline](https://github.com/narenp18)
+#### [Real-Time Fraud Detection Pipeline](https://github.com/nproddut18/real-time-fraud-detection-pipeline)
 > **Kafka + Spark Structured Streaming** pipeline with PySpark and SQL processing transaction events in real time — engineered for fraud-pattern detection across account, merchant, and payment behavior signals.
 
-#### [Big Data Sentiment & Trend Analytics Pipeline](https://github.com/narenp18)
+#### [Big Data Sentiment & Trend Analytics Pipeline](https://github.com/nproddut18/big-data-sentiment-trend-analytics-pipeline)
 > **Hadoop, MapReduce, Hive, and Java** pipeline processing 1M+ text records — 30% runtime reduction through mapper/reducer and partition tuning.
 
 ---
